@@ -1,3 +1,4 @@
+package santander.java.apredendoSintaxe;
 public class Classes_Variaveis_metedos {
 
 /** Nome da Classe no Arquivo, nesse   caso "App"
