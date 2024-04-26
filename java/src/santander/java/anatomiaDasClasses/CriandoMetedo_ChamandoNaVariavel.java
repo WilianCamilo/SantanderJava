@@ -1,4 +1,4 @@
-package santander.java.apredendoSintaxe;
+package santander.java.anatomiaDasClasses;
 public class CriandoMetedo_ChamandoNaVariavel {
     
     // Criei um metodo com o nome "nomeCOmpleto" onde recebe duas String como parametros
